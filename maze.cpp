@@ -3,14 +3,14 @@
 #include <string>
 
 using namespace std;
-/*This is application represents a rat going from the entrance to the exit of a maze.
+/*This application represents a rat going from the entrance to the exit of a maze.
 The rat will be represented by a number 2, and its trace adds a number 2 to the 0 position,
 a path walked twice will receive twice the addition of 2, thus the position will appear as 4.
 10 functions are used: print the maze (main), for the rat to look down, right, up and left,
 to face down, right, up and left, and 1-step.*/
 
 /*Citations, IEEE style:
-[1].maze.cpp, code used
+[1].maze.cpp, code observed
 [2].knights tour zip, code observed
 [3].https://en.cppreference.com/w/cpp/language/main_function, code observed
 [4].https://www.geeksforgeeks.org/rat-in-a-maze-backtracking-2/, code observed
